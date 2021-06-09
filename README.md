@@ -29,5 +29,4 @@ Edit the keyframes so that the square will:
 
 Instead of a single `animation` property in the rule with the `div` selector, use separate properties for the name, duration, number of iterations and the timing function.
 
-![Sliding Square](img/sliding-square.png)
-
+[![Sliding Square](img/sliding-square.png)](https://dciforks.github.io/UIB-interaction-animations-sliding-square/)
